@@ -10,7 +10,7 @@
 * Optimised for 17" 1280x1024 screens like the real unit :-)
 
 ## Installation of official Release version
-If there is an official Release version of this instrument available, you can download it by clicking the link in Releases section (right side of GitHub page). It will download a ZIP archive. Extract the ZIP and you will find .siff file - that is the instrument. Use Air Manager "Import" function to import this instrument.
+If there is an official Release version of this instrument available, you can download it by clicking the link in Releases section . It will download a <i>.siff</i> file - that is the instrument. Use Air Manager "Import" function to import this instrument.
 
 If there is no official Release version of this instrument avaible, it is usually because it is still in development. In that case read further.
 
